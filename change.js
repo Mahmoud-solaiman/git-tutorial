@@ -1,1 +1,1 @@
-console.log('change 3');
+console.log('Version 1 is now properly updated');
