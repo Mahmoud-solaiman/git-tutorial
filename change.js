@@ -1,1 +1,1 @@
-console.log('Version 1 is now properly updated');
+console.log('After uploading files to github');
